@@ -1,4 +1,5 @@
 # ScoreHudEconomyAddon
+### Get Started
 ```yml
 # Example, to add economy addon to ur scorehud
 lines:
