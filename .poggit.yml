@@ -1,5 +1,6 @@
 --- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/ohitszenqi/ScoreHudEconomyAddon
 build-by-default: true
+icon: "images (5).jpeg)
 branches:
 - main
 projects:
